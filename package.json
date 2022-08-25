@@ -66,5 +66,7 @@
       "**/hardhat-ts/**"
     ]
   },
-  "dependencies": {}
+  "devDependencies": {
+    "hardhat-deploy": "^0.11.12"
+  }
 }
